@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-main-22:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-merged_res-28:\\drawable-v21_app_icon.png.flat",
+        "source": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-main-22:\\drawable-v21\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-main-22:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.example.notifications_tut.app-merged_res-28:/drawable_app_icon_r.png.flat",
+        "source": "com.example.notifications_tut.app-main-22:/drawable/app_icon_r.png"
+    },
+    {
+        "merged": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-merged_res-28:\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-main-22:\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-merged_res-28:\\mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-main-22:\\mipmap-xxxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-merged_res-28:\\drawable_app_icon_noti.png.flat",
+        "source": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-main-22:\\drawable\\app_icon_noti.png"
+    },
+    {
+        "merged": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-merged_res-28:\\mipmap-xxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-main-22:\\mipmap-xxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-merged_res-28:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-main-22:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-merged_res-28:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-main-22:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-merged_res-28:\\mipmap-mdpi_app_icon.png.flat",
+        "source": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-main-22:\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-main-22:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-merged_res-28:\\mipmap-hdpi_app_icon.png.flat",
+        "source": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-main-22:\\mipmap-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-merged_res-28:\\mipmap-xhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\anhnh\\.gradle\\daemon\\7.6.3\\com.example.notifications_tut.app-main-22:\\mipmap-xhdpi\\app_icon.png"
+    }
+]
